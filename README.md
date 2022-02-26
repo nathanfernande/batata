@@ -18,6 +18,6 @@ git commit -m "++ added batat-master"
 git push origin feature-batata-master
 
 
-git chekout production
+git checkout production
 
 git pull origin production
