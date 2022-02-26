@@ -1,5 +1,5 @@
-# batata
-batata
+# batata agora é frita
+batata frita
 
 
 git clone <endereço>
@@ -8,7 +8,11 @@ cd <nomedorepositorio>
 
 git status
 
+git diff
+
 git checkout -b feature-batata-master
+
+git diff
 
 git add .
 
